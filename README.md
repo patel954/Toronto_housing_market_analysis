@@ -91,8 +91,3 @@ combination of neighborhoods and type of residence ) for
 investing in real state? C11, C01, C15,C06 & C13
 How did you derive to your recommendation? # Toronto_housing_market_analysis
 Based on our findings by cleaning up the data , projections and maps we have discovered that the top rated neighborhood is C12. Other than C12 top 5 neighborhoods include C11, C01, C15,C06 & C13. 
-=======
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
->>>>>>> 206ca7ac3453f40f5d4eee96eb4a9f067c5e3d85
