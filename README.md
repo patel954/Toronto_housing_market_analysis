@@ -1,6 +1,5 @@
 # Group 2 – Project 1: Real Estate investment options in Toronto
 
-<<<<<<< HEAD
 ## Background
 
 The city of Toronto real estate prices have increased greatly in the last 5 years. This increase may be different among its neighborhoods.
@@ -58,36 +57,38 @@ display(C04_C06_df.tail())
 ### Calculate and plot the real estate prices for the last 5 years: 
 
 Toronto - Use the groupby function to group the data by year. 
-Aggregate the results by the mean of the groups – 
+Aggregate the results by the mean of the groups
 
-What are the real estate price trends for Toronto composite 
+- What are the real estate price trends for Toronto composite 
 and for the detached and apartment over the 5 years 
 period?
-Steady increase in price 
+**Steady increase in price** 
 
 ### Calculate and plot the real estate prices for the last 5 years By  neighborhood - Use the groupby function to group the data by year. Aggregate the results by the mean of the neighborhoods
-What are the real estate price trends for Toronto and neighborhoods over the 5 years period? Increase 
-Which neighborhoods have the largest price increase, and which have the lowest price increase?Highest c12, lowest C11
-Any neighborhood(s) that experienced a real state price reduction? No
+- What are the real estate price trends for Toronto and neighborhoods over the 5 years period? 
+**Increase** 
+
+- Which neighborhoods have the largest price increase, and which have the lowest price increase? **Highest c12, lowest C11**
+
+- Any neighborhood(s) that experienced a real state price reduction? **No**
 
 ### Complete a Projection for the next 5 years; for Toronto and by neighborhoods. Including a  Montecarlo simulation for the projected average prices by neighborhood and a Plot to compare the projections for Toronto and its neighborhoods
-What is the projected trend for Toronto and its 
-neighborhoods for the next 5 years? 
-For composite vs other type of residences Steady Increase Only 
+- What is the projected trend for Toronto and its neighborhoods for the next 5 years? **For composite vs other type of residences Steady Increase Only** 
 
 ### Build an interactive GeoViz map that shows the real estate prices (latest point in time).  Concatenate the two dataframes(Neighborhoods real estate prices annual mean and  the neighborhoods Lat/Long coordinates and create a Geoviews 
-hvplot map
-Which are the neighborhoods with the highest prices in 
-Toronto - composite? C12
-Which are the neighborhoods with the highest prices in 
-Toronto  detached houses? C12
-Which are the neighborhoods with the highest prices in 
-Toronto  appartments? C12 & C02 
+### hvplot map
+- Which are the neighborhoods with the highest prices in 
+Toronto - composite? **C12**
+
+- Which are the neighborhoods with the highest prices in 
+Toronto  detached houses? **C12**
+
+- Which are the neighborhoods with the highest prices in 
+Toronto  appartments? **C12 & C02** 
 
 ## Conclusion
-What insights can you derive about the decision of investing 
-in real estate in Toronto? What are your choices (5 top 
-combination of neighborhoods and type of residence ) for 
-investing in real state? C11, C01, C15,C06 & C13
-How did you derive to your recommendation? # Toronto_housing_market_analysis
-Based on our findings by cleaning up the data , projections and maps we have discovered that the top rated neighborhood is C12. Other than C12 top 5 neighborhoods include C11, C01, C15,C06 & C13. 
+- What insights can you derive about the decision of investing in real estate in Toronto? What are your choices (5 top combination of neighborhoods and type of residence ) for investing in real state? 
+**C11, C01, C15,C06 & C13**
+
+- How did you derive to your recommendation?
+**Based on our findings by cleaning up the data , projections and maps we have discovered that the top rated neighborhood is C12. Other than C12 top 5 neighborhoods include C11, C01, C15,C06 & C13.**
